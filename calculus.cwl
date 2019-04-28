@@ -1,4 +1,4 @@
-# calculator package
+# calculus package
 # https://ctan.org/pkg/calculator
 #
 # Created by @ppizarror
